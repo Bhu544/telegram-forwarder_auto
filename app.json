@@ -7,7 +7,7 @@
       "auto-forwards",
       "send"
     ],
-    "repository": "https://github.com/Bhu544/telegram-forwarder_auto.git",
+    "repository": "https://github.com/Bhu544/tg1.git",
     "env": {
         "APP_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps"
